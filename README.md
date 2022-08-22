@@ -1,2 +1,7 @@
 # froebels-teachers-aid
-teachers aid appication for Amina.
+
+Teachers aid software that has.
+-ability to enter SIMs (year-round marks entry worksheet) ,and get it printed out
+-ability to add notes based on student.
+-ability to add notes based on class.
+-ability to keep a time table
